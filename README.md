@@ -16,4 +16,5 @@ If you wish to run the app from R Studio instead of going to the above link, you
 6. (optional) Click "Open in Browser" in the upper left corner of the app window if you wish to view in browser
 
 ### Data Source
-The data used for our analysis was free and found on Kaggle [link here](https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv)
+The data used for our analysis was free and found on Kaggle (linked below):
+* https://www.kaggle.com/datasets/airbnb/seattle?select=listings.csv
