@@ -5,6 +5,8 @@ Created as a result of Chase Romano's Visual Analytics course in the Data Scienc
 
 You can access the app [here](https://allie-baker-uncc.shinyapps.io/problemset3/)
 
+- - - -
+
 ### How to Re-create this Application
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 
