@@ -11,7 +11,7 @@ You can access the app [here](https://allie-baker-uncc.shinyapps.io/seattle_airb
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 
 1. Download all items in the Seattle_Airbnb folder
-2. Open Final_Project.Rproj in R Studio
+2. Open seattle_airbnb.Rproj in R Studio
 3. Make sure both Airbnb5122.csv and listig.csv stay within the 'data' folder
 4. Open app.R
 5. Click "Run App" in the upper right corner of the code panel
