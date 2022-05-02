@@ -3,7 +3,7 @@
 
 Created as a result of Chase Romano's Visual Analytics course in the Data Science and Business Analytics master's program at the University of North Carolina Charlotte, this Shiny application investigates Seattle Airbnb listings (data web-scraped in 2016).
 
-You can access the app [here](https://allie-baker-uncc.shinyapps.io/seattle_airbnb/)
+You can access the app by clicking [here](https://allie-baker-uncc.shinyapps.io/seattle_airbnb/)
 
 - - - -
 
