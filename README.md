@@ -7,7 +7,7 @@ You can access the app by clicking [here](https://allie-baker-uncc.shinyapps.io/
 
 - - - -
 
-### How to Re-create this Application
+### How to re-create this application
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 
 1. Download all items in the Seattle_Airbnb folder (will need to unzip)
